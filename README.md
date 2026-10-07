@@ -1,16 +1,17 @@
-## Hi there 👋
+# Sobre mim
+Sou um vencedor!!!!!!
+GREMIO neles
 
-<!--
-**jonasbomfim44-sudo/jonasbomfim44-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Coisas que eu gosto
+* Violão
+* Café
+* Cavalo
+* Treinar
+* Trabalhar
+  
+  ### Coisas que eu não gosto
+  * **Acordar cedo**
+  * *Calor*
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Conhecimentos
+![![alt text](image.png)]
